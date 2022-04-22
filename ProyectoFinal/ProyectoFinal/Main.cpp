@@ -149,7 +149,8 @@ int main( )
     Model Pintura3((char*)"Pinturas/Pintura3.obj");
     Model Rocas((char*)"Pinturas/Rocas.obj");
     Model ObjStairs((char*)"Pinturas/ObjStairs.obj");
-
+    Model Fosil((char*)"Models\Fosiles/Amminite3");
+    Model Fosil2((char*)"Models\Fosiles/Amminite1");
 
     GLuint texture;
     glGenTextures(1, &texture);
