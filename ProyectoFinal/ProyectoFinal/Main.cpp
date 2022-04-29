@@ -149,8 +149,8 @@ int main( )
     Model Pintura3((char*)"Pinturas/Pintura3.obj");
     Model Rocas((char*)"Pinturas/Rocas.obj");
     Model ObjStairs((char*)"Pinturas/ObjStairs.obj");
-    Model Fosil((char*)"Models\Fosiles/Amminite3");
-    Model Fosil2((char*)"Models\Fosiles/Amminite1");
+    Model esqueleto((char*)"Pinturas/Esqueleto.obj");
+
 
     GLuint texture;
     glGenTextures(1, &texture);
@@ -225,6 +225,12 @@ int main( )
         model = glm::mat4(1);
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
         Rocas.Draw(shader);
+        glBindVertexArray(0);
+
+        model = glm::mat4(1);
+        model = glm::translate(model, glm::vec3(5.0f, 0.6f, 2.5f));
+        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
+        esqueleto.Draw(shader);
         glBindVertexArray(0);
 
         model = glm::mat4(1);
