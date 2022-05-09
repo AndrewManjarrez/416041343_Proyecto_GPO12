@@ -144,16 +144,8 @@ int main( )
 
     // Load textures
 
-    Model Pintura1((char*)"Pinturas/Pintura1.obj");
-    Model Pintura2((char*)"Pinturas/Pintura2.obj");
-    Model Pintura3((char*)"Pinturas/Pintura3.obj");
-    Model Rocas((char*)"Pinturas/Rocas.obj");
-    Model ObjStairs((char*)"Pinturas/ObjStairs.obj");
-    Model esqueleto((char*)"Pinturas/Esqueleto.obj");
-    Model Columna((char*)"Pinturas/Columna.obj");
-    Model Columna2((char*)"Pinturas/Columna.obj");
-
-
+    Model pokearriba((char*)"Pokeball/pokearriba.obj");
+    Model pokeabajo((char*)"Pokeball/pokeabajo.obj");
 
     GLuint texture;
     glGenTextures(1, &texture);
@@ -210,51 +202,15 @@ int main( )
         //Pizza.Draw(shader);
 
         model = glm:: mat4(1);
+        model = glm::rotate(model, glm::radians(-rot), glm::vec3(1.0f, 0.0f, 0.0f));
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Pintura1.Draw(shader);
-        glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        model = glm::rotate(model, glm::radians(-rot), glm::vec3(0.0f, 1.0f, 0.0f));
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Pintura2.Draw(shader);
+        pokearriba.Draw(shader);
         glBindVertexArray(0);
 
         model = glm::mat4(1);
         glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Pintura3.Draw(shader);
+        pokeabajo.Draw(shader);
         glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Rocas.Draw(shader);
-        glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        model = glm::translate(model, glm::vec3(6.0f, 0.0f, 10.0f));
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Columna.Draw(shader);
-        glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        model = glm::translate(model, glm::vec3(-4.0f, 0.0f, 10.0f));
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        Columna2.Draw(shader);
-        glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        model = glm::translate(model, glm::vec3(5.0f, 0.6f, 2.5f));
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        esqueleto.Draw(shader);
-        glBindVertexArray(0);
-
-        model = glm::mat4(1);
-        model = glm::scale(model, glm::vec3(0.5f, 0.5f, 0.5f));
-        model = glm::translate(model, glm::vec3(5.0f, 0.0f, 10.0f));
-        glUniformMatrix4fv(glGetUniformLocation(shader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-        ObjStairs.Draw(shader);
-        glBindVertexArray(0);
-
 
         glActiveTexture(GL_TEXTURE0);
         glBindTexture(GL_TEXTURE_2D, texture);
@@ -306,15 +262,23 @@ void DoMovement( )
 
     if (anim)
     {
-        if (rot <= 360.0f) {
+        if (rot <= 45.0f) {
             rot += 0.1f;
         }
 
      
     }
 
+    if (anim2) {
+        
+            if (rot >= 0.0f) {
+                rot -= 0.1f;
+                anim = false;
+             
+            }
 
-    
+        
+    }
            
 //    
 }
