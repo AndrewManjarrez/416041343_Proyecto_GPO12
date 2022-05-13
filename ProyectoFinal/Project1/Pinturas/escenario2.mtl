@@ -1,0 +1,272 @@
+newmtl Banner:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd when_dinosaurs_ruled_the_earth.png
+Ni 1.00
+newmtl Esqueleto:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturaesqueleto.png
+Ni 1.00
+newmtl edificio2:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl edificio2:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd istockphoto-511661914-1024x1024.jpg
+Ni 1.00
+newmtl edificio2:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert37SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl edificio2:lambert38SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl edificio2:lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl edificio2:lambert41SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:pasted__lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:pasted__lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd f5f92ab786b4059dbe482f372c842b6b.jpg
+Ni 1.00
+newmtl edificio2:pasted__lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl edificio2:pasted__pasted__lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl edificio2:pasted__pasted__pasted__lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl edificio2:pasted__pasted__pasted__pasted__lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl edificio2:pasted__pasted__pasted__pasted__pasted__lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+Ni 1.00
+newmtl lambert42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marble_texture4626.jpg
+Ni 1.00

@@ -1,0 +1,292 @@
+newmtl Esqueleto:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl escenariox:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd thumb2-natural-rock-texture-4k-brown-rocks-macro-brown-stones.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl escenariox:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd when_dinosaurs_ruled_the_earth.png
+Ni 1.00
+newmtl escenariox:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd istockphoto-511661914-1024x1024.jpg
+Ni 1.00
+newmtl escenariox:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert37SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-del-acero-inoxidable-primer-plateado-de-metal-141491446.jpg
+Ni 1.00
+newmtl escenariox:lambert38SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diseño-de-textura-madera-marrón-natural-con-acabado-rústico-207089552.jpg
+Ni 1.00
+newmtl escenariox:lambert43SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+bump  -bm 1 textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl escenariox:lambert54SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-superficial-de-mármol-gris-7327820.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol3.jpg
+Ni 1.00
+newmtl objStairs:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl objStairs:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CNCR0www.jpg
+Ni 1.00
